@@ -1,0 +1,26 @@
+- Elementos a instalar
+
+1. > create-react-app client
+2. Font Awesome
+3. yarn add reat-router-dom
+4.. yarn add axios
+5. Uso de https://images.pexels.com
+
+
+
+
+
+----- Situaciones
+Attempted import error: 'Switch' is not exported from 'react-router-dom'
+https://stackoverflow.com/questions/63124161/attempted-import-error-switch-is-not-exported-from-react-router-dom
+
+
+Como solucionar el error al ejecutar npx create-react-app | React
+Se indago el error y se reemplazo por  create-react-app client  debido a que el error fue por el npx debido a que ya 
+no  se utilizan en las versiones actuales
+https://www.youtube.com/watch?v=H0jNaG04Mfw
+
+
+----- Ayudas de yarn
+Para instalacion de dependicias
+https://runebook.dev/es/docs/yarn/installing-dependencies

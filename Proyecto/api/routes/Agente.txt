@@ -1,0 +1,13 @@
+Pasos
+
+1. Se genera un  enrutador que es basicamente instancias de Mongo, 
+2. interactúan con las aplicaciones del cliente y dirigen las operaciones al fragmento apropiado.
+4. El enrutador de consultas procesa y dirige las operaciones a fragmentos
+5. Al final luego  devuelve los resultados a los clientes del blog.
+
+6. Se utilizar contraseñas de Salt and Hash Passwords with bcrypt .
+Debido a que los ciberdelincuentes utilizan una variedad de recursos en los ataques cibernéticos,
+ un paso clave en la seguridad de las contraseñas es el salting y el hash.  
+ https://heynode.com/blog/2020-04/salt-and-hash-passwords-bcrypt/
+
+    

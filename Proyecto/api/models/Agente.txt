@@ -1,0 +1,10 @@
+Pasos
+
+1. Se genera un esquema para modelar los datos del blog.
+2. En cada coleccion(tabla) por decirlo asi incluimos una  conversión que declare los datos que se van a recibir 
+3. Los datos mayormente son de tipo string , pero tambien incluimos array 
+3. Los modelos son construcotres de orden superior que toman 
+la esquema y crean un instancia para que equivalen a registros en una basse de datos relacional
+
+
+    

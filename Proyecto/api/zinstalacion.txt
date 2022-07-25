@@ -1,0 +1,22 @@
+- Elementos a instalar
+
+1. yarn add express mongoose dotenv multer
+2. npm init
+3. yarn start - inicia node
+4. yarn add nodemon
+5. Usar postman
+6. Registro de Cuenta
+7. yarn add bcrypt
+8. yarn add multer
+9. yarn add path
+
+
+
+----- Explicado
+- yarnn add mongoose 
+Es  una biblioteca de programación orientada a objetos de JavaScript que crea una conexión entre MongoDB y el
+entorno de tiempo de ejecución de JavaScript de Node.js.
+
+https://mongoosejs.com/
+Mongoose proporciona una solución sencilla basada en esquemas para modelar los datos de su aplicación.
+incorporada, validación, creación de consultas, enlaces de lógica de negocios y más, listos para usar.
